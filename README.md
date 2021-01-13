@@ -3,4 +3,5 @@ Previsão de mortes no Brasil provocada pela covid19 utilizando o Facebook Proph
 
 # Link para o Google Colab
 
-https://colab.research.google.com/drive/1lIWaJUcNejTPyzjNEMLr_RDCdMHrpASS
+
+https://colab.research.google.com/drive/1lIWaJUcNejTPyzjNEMLr_RDCdMHrpASS?usp=sharing
